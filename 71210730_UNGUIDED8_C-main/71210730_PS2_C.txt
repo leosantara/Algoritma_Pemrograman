@@ -1,0 +1,60 @@
+Air memiliki sifat untuk mencari atau mengalir di tempat terendah
+
+ketika air mengalir dari atap ke bawah
+ditampilkan bahwa pada penampung air pertama, saat dilihat saluran pengaliran air ember A berbeda sendiri dan terpisah dengan saluran pengaliran air ember B, C dan D 
+Penampungan utama akan saya namakan XY
+Saluran air yang berhubungan langsung dengan ember A akan saya namakan X1
+Saluran air yang berhubungan langsung dengan ember B akan saya namakan Y1
+Saluran air yang berhubungan langsung dengan ember C akan saya namakan Y2
+Saluran air yang berhubungan langsung dengan ember D akan saya namakan Y3
+Penampungan air sebelum ember B saya namakan Y02
+Penampungan air sebelum ember D saya namakan Y04
+dari hal itu bisa dikatakan bahwa terdapat 2 lubang saluran utama yang mengarah pada ember tertentu
+Akan saya namakan saluran tersebut dengan nama X dan Y
+Dengan X sebagai saluran air ember A, dan Y sebagai saluran air ember B, C, dan D
+Dilihat pada gambar, lubang saluran X lebih rendah dari pada ketinggian saluran Y, sehingga air akan mengalir lebih dulu pada saluran X
+ketika air melewati saluran X, terdapat penampungan air, akan saya namakan penampungan itu sebagai X0
+Setelah X0 terdapat saluran X1
+Saluran X1 terdapat pada bagaian bawah dari X0 berbentuk vertikal 90 derajat
+Air akan mengalir melalui X1 tanpa ada kemungkinan untuk beralih arah ketempat lain
+Ujung saluran X1 terdapat penyumbatan
+Untuk mengisi ember A, diharuskan untuk melewati saluran X1
+Ember A tidak akan terisi air
+
+Air hanya akan mengalir dan tertampung pada saluran X1 
+ketika saluran X1 tertampung penuh, air akan mulai mengisi X0 
+Air akan memenuhi X0
+Saluran X  lebih rendah dari titik teratas penampung X0
+Air akan berhenti menambah volumenya pada X0 pada saat air pada saluran X telah terpenuhi sepenuhnya
+ketika saluran X telah penuh dan volume X0 tidak bertambah lagi, tekanan dan aliran air pada X0 dan X menjadi stabil
+Ketika aliran dan volume air pada X0 dan X telah stabil, air akan mulai mengisi dan menambah volume air pada penampung XY
+Ketika volume air pada XY telah mencapai posisi sejajar horizontal dengan arah garis saluran Y
+Tekanan dan volume air pada XY akan stabil
+air akan mulai di aliri pada saluran Y
+ketika air mulai di aliri pada saluran Y, air akan di antarkan ke penampungan berikutnya
+Penampungan berikutnya ini saya namakan Y0 
+Saluran air yang menghubungkan Y0 dan Y01 saya namakan Y0B
+Saluran air yang menghubungkan Y0 dan Y03 saya namakan Y0D
+Saluran air dengan posisi pintu masuk terendah adalah Y2 dan Y3
+Pintu masuk air ke arah Y2 tertutup
+Air tidak bisa melewati Y2
+Ember C tidak akan terisi air
+
+Air mengalir melalui ke saluran Y0D
+Air masuk ke Y04
+Lubang yang menjadi jalur air yang berada diantara Y04 dan Y3 tertutup
+Air tidak bisa melewati Y3
+Ember D tidak akan terisi air
+
+Air akan tertempung pada Y04 hingga penuh
+Volume dan tekanan air pada Y04 stabil
+Volume dan tekanan air pada Y0D stabil
+Air mulai Tertampung pada Y0 hingga mencapai titik garis horizontal pintu masuk saluran Y0B
+Air mulai mengalir pada saluran Y0B
+Volume dan tekanan air pada Y0 stabil
+Air dari arah saluran Y0B mulai mengalir dan mengisi Y02
+Pada Y02 tidak terdapat penghalang
+Air terus mengalir dan mengewati Y1
+Pada Y1 Tidak ada penghalang
+Ember B mulai terisi air
+Ember B penuh
